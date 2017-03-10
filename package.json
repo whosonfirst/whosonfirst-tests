@@ -1,0 +1,25 @@
+{
+  "name": "whosonfirst-acceptance",
+  "version": "1.0.0",
+  "description": "whosonfirst-data acceptance tests",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepps00/whosonfirst-acceptance.git"
+  },
+  "author": "stepps00",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stepps00/whosonfirst-acceptance/issues"
+  },
+  "homepage": "https://github.com/stepps00/whosonfirst-acceptance#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
