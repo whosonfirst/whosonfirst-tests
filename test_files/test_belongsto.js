@@ -1,4 +1,3 @@
-module.exports.run = function()
 {
 	successes = 0
 	failures = 0
