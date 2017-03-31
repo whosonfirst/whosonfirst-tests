@@ -1,4 +1,4 @@
-{
+module.exports = function(condition) {
 	successes = 0
 	failures = 0
 	console.log('Test: belongsto')

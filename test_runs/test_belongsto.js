@@ -13,7 +13,7 @@ function condition(recordid, belongsto_ids)
     }
     if (belongsto_ids.every(belongsto)) {
     	console.log('Test passed.'.green)
-    	successes ++  
+    	successes ++
     }
     	else {console.log('Test failed.'.red)
     	failures ++
@@ -22,5 +22,5 @@ function condition(recordid, belongsto_ids)
 
 module.exports.run = function()
 {
-	test_belongsto
+	test_belongsto(condition);
 }

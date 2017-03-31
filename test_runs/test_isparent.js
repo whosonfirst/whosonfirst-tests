@@ -1,7 +1,6 @@
 var successes = 0
 var failures = 0
 var get_record = require('../utils/get_record.js')
-var test_isparent = require('../test_files/test_isparent.js')
 
 // pulling everything together
 function isparent(recordid, parentlayer, parentid)
@@ -16,7 +15,9 @@ function isparent(recordid, parentlayer, parentid)
     }
 }
 
+var test_isparent = require('../test_files/test_isparent.js')
+
 module.exports.run = function()
 {
-	test_isparent
+	test_isparent(isparent)
 }
