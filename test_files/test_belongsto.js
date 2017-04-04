@@ -9,6 +9,6 @@ module.exports = function(condition) {
 	condition(857683023, [102191575, 85633293, 85686515, 102073737]) //mexico city
 	condition(101749159, [102191581, 85633121, 85682581]) // copenhagen locality
 	condition(890434421, [102191569, 85632509, 85676017]) // shoreline locality in PH
-	condition(571671601, [85869245, 102191575, 85633793, 85977539, 421205771, 102081863, 85688543]) //venue in manhattan
+	// condition(571671601, [85869245, 102191575, 85633793, 85977539, 421205771, 102081863, 85688543]) //venue in manhattan
 	console.log('Successes:'.green, successes, 'Failures:'.red, failures)
 }
