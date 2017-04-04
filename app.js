@@ -1,6 +1,6 @@
 var test = [
-	require('./tests/test_isparent'), 
-	require('./tests/test_belongsto')
+	require('./test_runs/test_isparent'), 
+	require('./test_runs/test_belongsto')
 ]
 
 test.forEach(function (test){

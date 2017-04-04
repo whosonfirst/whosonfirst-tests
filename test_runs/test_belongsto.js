@@ -1,4 +1,5 @@
 var get_record = require('../utils/get_record.js')
+var test_belongsto = require('../test_files/test_belongsto.js')
 var colors = require('colors');
 var successes = 0
 var failures = 0
@@ -12,7 +13,7 @@ function condition(recordid, belongsto_ids)
     }
     if (belongsto_ids.every(belongsto)) {
     	console.log('Test passed.'.green)
-    	successes ++  
+    	successes ++
     }
     	else {console.log('Test failed.'.red)
     	failures ++
@@ -21,9 +22,5 @@ function condition(recordid, belongsto_ids)
 
 module.exports.run = function()
 {
-	successes = 0
-	failures = 0
-	console.log('Test: belongsto')
-	condition(1108730699, [102191581, 85633287, 85688877])
-	console.log('Successes:'.green, successes, 'Failures:'.red, failures)
+	test_belongsto(condition);
 }
