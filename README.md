@@ -2,8 +2,6 @@
 
 _2017-03-10: This document should be considered a work-in-progress_
 
-Acceptance tests for Who's On First... so what is this all about?
-
 Let's start with what has happened already, before this part comes in. A JSON Schema has been used to generate a Minimum Viable WOF document:
 
 `$schema_fields = wof_schema_fields($ref);`
@@ -34,10 +32,33 @@ This is all to say, you can modify the edit behavior for each property
 by adjusting the data structure below. The '_default' case is what it
 sounds like.
 
-## Types of tests
+## Test Descriptions
 
-- Validating known knowns in Who's On First
-- Type testing Who's On First properties
+#### Validation Tests
+
+Validation tests are preformed on individual records in Who's On First. These tests are specific in function and validate assumptions to properties in a specific record. A list of existing tests:
+
+**test_belongsto**
+
+This test imports a list of Who's On First record ids (`wof:id`), as well as the ids of features in the record's `wof:hierarchy` property. An example for San Francisco, below:
+
+```
+condition(85922583, [102191575, 85633793, 85688637, 102087579])
+
+```
+
+The `wof:id` for San Francisco, `85922583`, is listed along with all correct and known `wof:id` values for all records in San Francisco's `wof:hierarchy` property. Recording known hierarchies and testing against these known values is important to ensuring we don't regress when updating records.
+  
+**test_isparent**
+
+This test imports a list of Who's On First record ids (`wof:id`), as well as the ids of features in the record's `wof:parent` property. An example for San Francisco, below:
+
+```
+isparent(404227491, 'country', 85633237)
+```
+The `wof:id` for Dél-Dunántúl, `404227491`, is listed along with the correct and known `wof:id` value for Dél-Dunántúl's parent record, the country of Hungary. Recording known parent ids and testing against these known values is important to ensuring we don't regress when updating records.
+
+#### Type Tests
 
 ## See also
 
