@@ -15,7 +15,7 @@ function isparent(recordid, parentlayer, parentid)
     }
 }
 
-var test_isparent = require('../test_files/test_isparent.js')
+var test_isparent = require('../test_files/isparent.js')
 
 module.exports.run = function()
 {

@@ -1,5 +1,5 @@
 var get_record = require('../utils/get_record.js')
-var test_belongsto = require('../test_files/test_belongsto.js')
+var test_belongsto = require('../test_files/belongsto.js')
 var colors = require('colors');
 var successes = 0
 var failures = 0
