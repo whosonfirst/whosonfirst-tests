@@ -7,8 +7,10 @@ var lang_array = [
 	'spa_x_preferred'
 	]
 
+function test_lang_names(layer){
+
 // call the get_metadata w country
-var country_records = get_metadata.get_metadata_from_disk('country') //this gives us an array...
+var country_records = get_metadata.get_metadata_from_disk(layer) //this gives us an array...
 
 // loop through each id in the metadata results
 country_records.forEach(function(country_record){
@@ -22,11 +24,20 @@ country_records.forEach(function(country_record){
 			//successes ++
   		}
     
-    	else {console.log('Test failed'.red + ' - ' + country_record.id + ' (' + country_record.name + ')' + ' is missing a ' + language + ' field.')
+    	else {console.log('Test failed'.red + ' - ' + country_record.id + ' (' 
+    		+ country_record.name + ')' + ' is missing a ' + language + ' field. '
+    		+ '(placetype: ' + layer + ')')
     		failures ++
     	}
     })
-})
+})}
+
+module.exports.run = function()
+{
+	test_lang_names('country')
+	test_lang_names('region')
+}
+
 
 //potential name fields:
 //name:eng_x_preferred
