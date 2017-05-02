@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/stepps00/whosonfirst-acceptance#readme",
   "dependencies": {
-    "colors": "^1.1.2"
+    "colors": "^1.1.2",
+    "csv-parse": "^1.2.0"
   }
 }
