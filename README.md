@@ -11,7 +11,7 @@ _2017-05-12: This document should be considered a work-in-progress_
 - **test_belongsto.js**: A routine test to verify `wof:belongsto` properties.
   - This test envokes a list of `wof:id` values and the known values in that record's `wof:belongsto` property. This test should be run locally when updating and rebuilding hierarchies to verify that no values are being stripped out of the `wof:belongsto` property.
   
-- **test_isparent.js**:  A routine test to verify `wof:parent_id` properties.
+- **test_isparent.js**: A routine test to verify `wof:parent_id` properties.
   - This test envokes a list of `wof:id` values and the known values in that record's `wof:parent_id` property. This test should be run locally when updating records to verify that no records are incorrectly given a new `wof:parent_id` value.
 
 ### Testing Who's On First properties
@@ -25,7 +25,7 @@ _2017-05-12: This document should be considered a work-in-progress_
     - Verifies that a record also has a `name:[lang]_x_preferred` property, where `[lang]` is equal to the value of the `wof:lang` property.
     
 - **test_superseded_by.js**: A test to validate records' `wof:superseded_by` and `wof:superseded` properties, by doing the following:
-  - Checks that a record's (record A) `wof:superseded_by` value matches the id of an existing record (record B).
+  - Checks that a record's (record A) `wof:superseded_by` value matches the `wof:id` of an existing record (record B).
   - If so, checks that record B's `wof:supersedes` property value matches record A's `wof:id` value.
     
 ## See also
