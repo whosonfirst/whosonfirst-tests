@@ -1,45 +1,36 @@
 # whosonfirst-tests
 
-_2017-03-10: This document should be considered a work-in-progress_
+Testing known-knowns and properties in Who's On First records.
 
-Acceptance tests for Who's On First... so what is this all about?
-
-Let's start with what has happened already, before this part comes in. A JSON Schema has been used to generate a Minimum Viable WOF document:
-
-`$schema_fields = wof_schema_fields($ref);`
-
-Next, values from a GeoJSON record get merged into that schema structure
-using an invented (i.e., not-part-of-JSON-schema) hash key "_value".
-
-`$schema_fields = wof_render_insert_values($schema_fields, $values);`
-
-That schema gets handed off to a Smarty template inc_json_schema_field.txt
-which decides what kind of thing it's dealing with. In the simplest case
-it comes up with a normal `<input>` field. Otherwise it includes one of
-inc_json_schema_object.txt or inc_json_schema_array.txt (which in turn
-include inc_json_schema_field.txt).
-
-In the case of inc_json_schema_object.txt, a `<table>` with `<tr>` elements
-gets generated, each one with possible 'class' attributes defined:
-
-  - property-editable
-  - property-visible
-
-By default a property `<tr>` is hidden by CSS, but property-visible
-overrides that to make the property visible. Likewise, `<input>'s` include
-a `disabled="disabled"` attribute, which gets overridden in JS if the
-property includes property-editable.
-
-This is all to say, you can modify the edit behavior for each property
-by adjusting the data structure below. The '_default' case is what it
-sounds like.
+_2017-05-12: This document should be considered a work-in-progress_
 
 ## Types of tests
 
-- Validating known knowns in Who's On First
-- Type testing Who's On First properties
+### Validating known-knowns in Who's On First
 
+- **test_belongsto.js**: A routine test to verify `wof:belongsto` properties.
+  - This test envokes a list of `wof:id` values and the known values in that record's `wof:belongsto` property. This test should be run locally when updating and rebuilding hierarchies to verify that no values are being stripped out of the `wof:belongsto` property.
+  
+- **test_isparent.js**:  A routine test to verify `wof:parent_id` properties.
+  - This test envokes a list of `wof:id` values and the known values in that record's `wof:parent_id` property. This test should be run locally when updating records to verify that no records are incorrectly given a new `wof:parent_id` value.
+
+### Testing Who's On First properties
+
+- **test_lang_names.js**: A test to ensure a record or set of records has a `name:eng_x_preferred` property.
+  - This test can be used as a one-off to verify a record has a specified property. As it stands, this test checks for the `name:eng_x_preferred` property, but can be configured to check of other properties.
+  
+- **test_official_lang_names.js**: A test to ensure a record or set of records has a `wof:lang` property, as well as a `name:[lang]_x_preferred` property for the `wof:lang` value.
+  - This test checks for two separate things in a Who's On First record:
+    - Verifies that a `wof:lang` property exists and returns the value of that property.
+    - Verifies that a record also has a `name:[lang]_x_preferred` property, where `[lang]` is equal to the value of the `wof:lang` property.
+    
+- **test_superseded_by.js**: A test to validate records' `wof:superseded_by` and `wof:superseded` properties, by doing the following:
+  - Checks that a record's (record A) `wof:superseded_by` value matches the id of an existing record (record B).
+  - If so, checks that record B's `wof:supersedes` property value matches record A's `wof:id` value.
+    
 ## See also
+
+_https://github.com/whosonfirst_
 
 _https://github.com/whosonfirst/whosonfirst-json-schema_
 
