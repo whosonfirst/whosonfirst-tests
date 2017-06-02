@@ -1,0 +1,301 @@
+id|lat|lon|iso country|poly country|link
+101913225|Remich|49.544444|6.366667|DE|LU|https://whosonfirst.mapzen.com/spelunker/id/101913225/
+101914105|Weil am Rhein|47.594722|7.610833|CH|DE|https://whosonfirst.mapzen.com/spelunker/id/101914105/
+101914107|Weil am Rhein|47.594722|7.610833|CH|DE|https://whosonfirst.mapzen.com/spelunker/id/101914107/
+101914109|Weil am Rhein|47.594722|7.610833|CH|DE|https://whosonfirst.mapzen.com/spelunker/id/101914109/
+101914113|Weil am Rhein|47.594722|7.610833|CH|DE|https://whosonfirst.mapzen.com/spelunker/id/101914113/
+101914115|Weil am Rhein|47.594722|7.610833|CH|DE|https://whosonfirst.mapzen.com/spelunker/id/101914115/
+421168533|Pamplona|42.816667|-1.65|CO|ES|https://whosonfirst.mapzen.com/spelunker/id/421168533/
+101914859|Cambridge|52.208056|0.1225|NZ|GB|https://whosonfirst.mapzen.com/spelunker/id/101914859/
+421168681|Jerusalem|31.783333|35.233333|IL|PS|https://whosonfirst.mapzen.com/spelunker/id/421168681/
+101915071|Cambridge|52.208056|0.1225|NZ|GB|https://whosonfirst.mapzen.com/spelunker/id/101915071/
+101915203|Pohara|58.46|24.227222|NZ|EE|https://whosonfirst.mapzen.com/spelunker/id/101915203/
+890421389|Ronda|36.737222222|-5.164722222|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890421389/
+890421745|Villareal|39.937777777|-0.101388888|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890421745/
+890422905|Port-Louis|-20.166666666|57.5|GP|MU|https://whosonfirst.mapzen.com/spelunker/id/890422905/
+101915677|Cambridge|52.208056|0.1225|NZ|GB|https://whosonfirst.mapzen.com/spelunker/id/101915677/
+890430395|Barcelona|41.3825|2.176944444|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890430395/
+890429581|Tarragona|41.115555555|1.249444444|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890429581/
+101915861|Cambridge|52.208056|0.1225|NZ|GB|https://whosonfirst.mapzen.com/spelunker/id/101915861/
+890432871|El Salvador|13.668889|-88.866111|PH|SV|https://whosonfirst.mapzen.com/spelunker/id/890432871/
+890433049|Bangui|4.361388888|18.555277777|PH|CF|https://whosonfirst.mapzen.com/spelunker/id/890433049/
+890433097|Almeria|36.833333333|-2.45|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890433097/
+101916043|Stirling|56.119444|-3.935833|NZ|GB|https://whosonfirst.mapzen.com/spelunker/id/101916043/
+890437735|Antequera|37.0183652|-4.5596649|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890437735/
+890438545|Burgos|42.340833333|-3.699722222|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890438545/
+890442273|Mexico|23.316667|-102.366667|PH|MX|https://whosonfirst.mapzen.com/spelunker/id/890442273/
+890442467|Medina|24.466666666|39.6|PH|SA|https://whosonfirst.mapzen.com/spelunker/id/890442467/
+890443223|Valladolid|41.651980555|-4.728561111|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890443223/
+890443311|Murcia|37.986111111|-1.130277777|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890443311/
+890442965|Pontevedra|42.433611111|-8.6475|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890442965/
+102004051|Kanino|40.946944|21.358889|RU|MK|https://whosonfirst.mapzen.com/spelunker/id/102004051/
+101917081|Saint Andrews|56.338889|-2.798889|NZ|GB|https://whosonfirst.mapzen.com/spelunker/id/101917081/
+890455205|Sevilla|37.383333333|-5.983333333|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890455205/
+890455391|Zaragosa|41.65|-0.883333333|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890455391/
+102004593|Rechitsa|52.363889|30.394722|RU|BY|https://whosonfirst.mapzen.com/spelunker/id/102004593/
+101917369|Cambridge|52.208056|0.1225|NZ|GB|https://whosonfirst.mapzen.com/spelunker/id/101917369/
+101917371|Cambridge|52.208056|0.1225|NZ|GB|https://whosonfirst.mapzen.com/spelunker/id/101917371/
+102004917|Rechitsa|52.363889|30.394722|RU|BY|https://whosonfirst.mapzen.com/spelunker/id/102004917/
+101918757|Cambridge|52.208056|0.1225|NZ|GB|https://whosonfirst.mapzen.com/spelunker/id/101918757/
+101918759|Cambridge|52.208056|0.1225|NZ|GB|https://whosonfirst.mapzen.com/spelunker/id/101918759/
+101919005|San Sebastián|43.32|-1.98|PR|ES|https://whosonfirst.mapzen.com/spelunker/id/101919005/
+101919011|San Antonio|29.428611|-98.493333|PR|US|https://whosonfirst.mapzen.com/spelunker/id/101919011/
+101919283|San Antonio|29.428611|-98.493333|PR|US|https://whosonfirst.mapzen.com/spelunker/id/101919283/
+101919305|San Antonio|29.428611|-98.493333|PR|US|https://whosonfirst.mapzen.com/spelunker/id/101919305/
+421170917|San Antonio|29.428611|-98.493333|PH|US|https://whosonfirst.mapzen.com/spelunker/id/421170917/
+102010921|Klyuchevka|42.568611|71.817222|RU|KG|https://whosonfirst.mapzen.com/spelunker/id/102010921/
+102011397|Berezino|53.833333|28.983333|RU|BY|https://whosonfirst.mapzen.com/spelunker/id/102011397/
+101923205|Bochum|51.483333|7.216667|ZA|DE|https://whosonfirst.mapzen.com/spelunker/id/101923205/
+102012715|Voronovo|54.15|25.316667|RU|BY|https://whosonfirst.mapzen.com/spelunker/id/102012715/
+102012987|Sumy|50.906799|34.799235|RU|UA|https://whosonfirst.mapzen.com/spelunker/id/102012987/
+421172067|San Antonio|29.428611|-98.493333|PH|US|https://whosonfirst.mapzen.com/spelunker/id/421172067/
+101923991|Seville|37.383333|-5.983333|ZA|ES|https://whosonfirst.mapzen.com/spelunker/id/101923991/
+101924193|Rotterdam|51.930833|4.479167|ZA|NL|https://whosonfirst.mapzen.com/spelunker/id/101924193/
+101924207|Rotterdam|51.930833|4.479167|ZA|NL|https://whosonfirst.mapzen.com/spelunker/id/101924207/
+101924517|Edinburgh|55.95|-3.198889|ZA|GB|https://whosonfirst.mapzen.com/spelunker/id/101924517/
+101924615|Alexandria|31.2|29.916667|ZA|EG|https://whosonfirst.mapzen.com/spelunker/id/101924615/
+101924619|Belfast|54.596667|-5.938333|ZA|GB|https://whosonfirst.mapzen.com/spelunker/id/101924619/
+890517527|Salamanca|40.965|-5.663888888|CL|ES|https://whosonfirst.mapzen.com/spelunker/id/890517527/
+890517711|San Antonio|29.428611111|-98.493333333|CL|US|https://whosonfirst.mapzen.com/spelunker/id/890517711/
+890517985|Los Angeles|34.05|-118.25|CL|US|https://whosonfirst.mapzen.com/spelunker/id/890517985/
+101925169|Jericho|31.856111|35.463056|ZA|PS|https://whosonfirst.mapzen.com/spelunker/id/101925169/
+101925597|Derby|52.916667|-1.466667|ZA|GB|https://whosonfirst.mapzen.com/spelunker/id/101925597/
+421172495|Burgos|42.340833|-3.699722|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/421172495/
+101927095|Rosetta|31.401389|30.419444|ZA|EG|https://whosonfirst.mapzen.com/spelunker/id/101927095/
+102016801|Viña del Mar|-33.033333|-71.533333|CH|CL|https://whosonfirst.mapzen.com/spelunker/id/102016801/
+102016833|Valparaíso|-33.066667|-71.633333|CH|CL|https://whosonfirst.mapzen.com/spelunker/id/102016833/
+421173817|Valencia|39.466667|-0.375|TT|ES|https://whosonfirst.mapzen.com/spelunker/id/421173817/
+102016995|San Antonio|29.428611|-98.493333|CL|US|https://whosonfirst.mapzen.com/spelunker/id/102016995/
+421174609|San Antonio|29.428611|-98.493333|AR|US|https://whosonfirst.mapzen.com/spelunker/id/421174609/
+102017123|Punta Arenas|-53.15|-70.916667|CH|CL|https://whosonfirst.mapzen.com/spelunker/id/102017123/
+102017383|Matanzas|23.049444|-81.573611|CL|CU|https://whosonfirst.mapzen.com/spelunker/id/102017383/
+101712965|Sheffield|53.3825|-1.471944|US|GB|https://whosonfirst.mapzen.com/spelunker/id/101712965/
+421175197|Bello Horizonte|-19.891667|-43.947778|UY|BR|https://whosonfirst.mapzen.com/spelunker/id/421175197/
+101716445|Glasgow|55.87|-4.27|US|GB|https://whosonfirst.mapzen.com/spelunker/id/101716445/
+102017955|Punta Arenas|-53.15|-70.916667|CH|CL|https://whosonfirst.mapzen.com/spelunker/id/102017955/
+102018045|San Sebastián|43.32|-1.98|CL|ES|https://whosonfirst.mapzen.com/spelunker/id/102018045/
+421176707|San Clemente|33.437778|-117.620278|AR|US|https://whosonfirst.mapzen.com/spelunker/id/421176707/
+421177307|San Antonio|29.428611|-98.493333|BZ|US|https://whosonfirst.mapzen.com/spelunker/id/421177307/
+421177463|Adelaide|-34.933333|138.583333|BS|AU|https://whosonfirst.mapzen.com/spelunker/id/421177463/
+421177591|San Antonio|29.428611|-98.493333|PE|US|https://whosonfirst.mapzen.com/spelunker/id/421177591/
+101721299|St. Andrews|56.338889|-2.798889|US|GB|https://whosonfirst.mapzen.com/spelunker/id/101721299/
+101930369|Geneva|46.2|6.15|AU|CH|https://whosonfirst.mapzen.com/spelunker/id/101930369/
+101722903|Bristol|51.45|-2.583333|US|GB|https://whosonfirst.mapzen.com/spelunker/id/101722903/
+421179449|Sevilla|37.383333|-5.983333|CO|ES|https://whosonfirst.mapzen.com/spelunker/id/421179449/
+421179517|Genova|44.411156|8.932661|CO|IT|https://whosonfirst.mapzen.com/spelunker/id/421179517/
+101727239|Villarreal|39.937778|-0.101389|US|ES|https://whosonfirst.mapzen.com/spelunker/id/101727239/
+101726841|Bristol|51.45|-2.583333|US|GB|https://whosonfirst.mapzen.com/spelunker/id/101726841/
+101726867|Las Palmas|28.127222|-15.431389|US|ES|https://whosonfirst.mapzen.com/spelunker/id/101726867/
+101726887|Medina|24.466667|39.6|US|SA|https://whosonfirst.mapzen.com/spelunker/id/101726887/
+421180355|Burgos|42.340833|-3.699722|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/421180355/
+421180663|Valencia|39.466667|-0.375|CO|ES|https://whosonfirst.mapzen.com/spelunker/id/421180663/
+421180737|San Antonio|29.428611|-98.493333|CR|US|https://whosonfirst.mapzen.com/spelunker/id/421180737/
+101728315|Jericho|31.856111|35.463056|US|PS|https://whosonfirst.mapzen.com/spelunker/id/101728315/
+101728659|Bristol|51.45|-2.583333|US|GB|https://whosonfirst.mapzen.com/spelunker/id/101728659/
+101731773|St. Albans|51.755|-0.336|US|GB|https://whosonfirst.mapzen.com/spelunker/id/101731773/
+101932303|West Haven|41.273889|-72.967778|AU|US|https://whosonfirst.mapzen.com/spelunker/id/101932303/
+101735015|Hanover|52.374444|9.738611|CA|DE|https://whosonfirst.mapzen.com/spelunker/id/101735015/
+101932657|Brooklyn|40.692778|-73.990278|AU|US|https://whosonfirst.mapzen.com/spelunker/id/101932657/
+101932817|Dallas|32.7825|-96.7975|AU|US|https://whosonfirst.mapzen.com/spelunker/id/101932817/
+101735267|Bristol|51.45|-2.583333|CA|GB|https://whosonfirst.mapzen.com/spelunker/id/101735267/
+101735353|Saint Andrews|56.338889|-2.798889|CA|GB|https://whosonfirst.mapzen.com/spelunker/id/101735353/
+101933565|St Albans|51.755|-0.336|AU|GB|https://whosonfirst.mapzen.com/spelunker/id/101933565/
+421182317|San Sebastián|43.32|-1.98|PE|ES|https://whosonfirst.mapzen.com/spelunker/id/421182317/
+101734851|St. Andrews|56.338889|-2.798889|CA|GB|https://whosonfirst.mapzen.com/spelunker/id/101734851/
+101933825|Arundel|50.854722|-0.554722|AU|GB|https://whosonfirst.mapzen.com/spelunker/id/101933825/
+101739323|Valparaiso|-33.066667|-71.633333|CA|CL|https://whosonfirst.mapzen.com/spelunker/id/101739323/
+890416133|Burgos|42.340833333|-3.699722222|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890416133/
+890416135|Burgos|42.340833333|-3.699722222|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890416135/
+890416137|Burgos|42.340833333|-3.699722222|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890416137/
+890416139|Burgos|42.340833333|-3.699722222|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890416139/
+890416311|Almeria|36.833333333|-2.45|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890416311/
+101739885|Langenburg|49.253333|9.848611|CA|DE|https://whosonfirst.mapzen.com/spelunker/id/101739885/
+890417957|Armenia|40.383333|44.95|HN|AM|https://whosonfirst.mapzen.com/spelunker/id/890417957/
+890418163|Surinam|4|-56|MU|SR|https://whosonfirst.mapzen.com/spelunker/id/890418163/
+101737751|Nantes|47.217222|-1.553889|CA|FR|https://whosonfirst.mapzen.com/spelunker/id/101737751/
+101935803|Boston|42.357778|-71.061667|AU|US|https://whosonfirst.mapzen.com/spelunker/id/101935803/
+101935937|Edinburgh|55.95|-3.198889|AU|GB|https://whosonfirst.mapzen.com/spelunker/id/101935937/
+101936173|Jerusalem|31.783333|35.233333|AU|PS|https://whosonfirst.mapzen.com/spelunker/id/101936173/
+890420169|Freetown|8.483333333|-13.233055555|AG|SL|https://whosonfirst.mapzen.com/spelunker/id/890420169/
+890420223|San Antonio|29.428611111|-98.493333333|HN|US|https://whosonfirst.mapzen.com/spelunker/id/890420223/
+890420245|Albania|41|20|CO|AL|https://whosonfirst.mapzen.com/spelunker/id/890420245/
+101937031|Como|45.816667|9.083333|AU|IT|https://whosonfirst.mapzen.com/spelunker/id/101937031/
+890421365|Valencia|39.466666666|-0.375|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890421365/
+890421863|Villareal|39.937777777|-0.101388888|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890421863/
+890422465|Madina|24.466666666|39.6|GM|SA|https://whosonfirst.mapzen.com/spelunker/id/890422465/
+890422467|Madina|24.466666666|39.6|GM|SA|https://whosonfirst.mapzen.com/spelunker/id/890422467/
+101937817|Stirling|56.119444|-3.935833|AU|GB|https://whosonfirst.mapzen.com/spelunker/id/101937817/
+101937909|Waterford|52.2583|-7.119|AU|IE|https://whosonfirst.mapzen.com/spelunker/id/101937909/
+101938043|Brooklyn|40.692778|-73.990278|AU|US|https://whosonfirst.mapzen.com/spelunker/id/101938043/
+890424183|Valencia|39.466666666|-0.375|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890424183/
+101740733|Perth|-31.952222|115.858889|CA|AU|https://whosonfirst.mapzen.com/spelunker/id/101740733/
+101749337|Bruges|51.209444|3.22|FR|BE|https://whosonfirst.mapzen.com/spelunker/id/101749337/
+101749757|Lampertheim|49.594167|8.467083|FR|DE|https://whosonfirst.mapzen.com/spelunker/id/101749757/
+890427093|Dār as Salām|-6.8|39.283333333|YE|TZ|https://whosonfirst.mapzen.com/spelunker/id/890427093/
+421185351|San Antonio|29.428611|-98.493333|PH|US|https://whosonfirst.mapzen.com/spelunker/id/421185351/
+890428705|India|21|78|GM|IN|https://whosonfirst.mapzen.com/spelunker/id/890428705/
+421185795|Granada|37.178056|-3.600833|CO|ES|https://whosonfirst.mapzen.com/spelunker/id/421185795/
+421186019|El Centenario|24.1025|-110.414444|CO|MX|https://whosonfirst.mapzen.com/spelunker/id/421186019/
+101940429|St Andrews|56.338889|-2.798889|AU|GB|https://whosonfirst.mapzen.com/spelunker/id/101940429/
+890430367|San Antonio|29.428611111|-98.493333333|AR|US|https://whosonfirst.mapzen.com/spelunker/id/890430367/
+890430739|San Antonio|29.428611111|-98.493333333|PH|US|https://whosonfirst.mapzen.com/spelunker/id/890430739/
+890430803|San Antonio|29.428611111|-98.493333333|CO|US|https://whosonfirst.mapzen.com/spelunker/id/890430803/
+890431183|Vigo|42.233333333|-8.716666666|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890431183/
+421186751|Valencia|39.466667|-0.375|VE|ES|https://whosonfirst.mapzen.com/spelunker/id/421186751/
+421186847|San Salvador|13.69|-89.19|PE|SV|https://whosonfirst.mapzen.com/spelunker/id/421186847/
+890431539|Tarragona|41.115555555|1.249444444|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890431539/
+890432173|San Antonio|29.428611111|-98.493333333|PH|US|https://whosonfirst.mapzen.com/spelunker/id/890432173/
+890432177|Granada|37.178055555|-3.600833333|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890432177/
+890432311|San Antonio|29.428611111|-98.493333333|PH|US|https://whosonfirst.mapzen.com/spelunker/id/890432311/
+890432347|San Antonio|29.428611111|-98.493333333|PH|US|https://whosonfirst.mapzen.com/spelunker/id/890432347/
+890432349|San Antonio|29.428611111|-98.493333333|PH|US|https://whosonfirst.mapzen.com/spelunker/id/890432349/
+890432351|San Antonio|29.428611111|-98.493333333|PH|US|https://whosonfirst.mapzen.com/spelunker/id/890432351/
+890432391|San Antonio|29.428611111|-98.493333333|PH|US|https://whosonfirst.mapzen.com/spelunker/id/890432391/
+890432393|San Antonio|29.428611111|-98.493333333|PH|US|https://whosonfirst.mapzen.com/spelunker/id/890432393/
+890432399|San Antonio|29.428611111|-98.493333333|PH|US|https://whosonfirst.mapzen.com/spelunker/id/890432399/
+421187309|Bordeaux|44.837778|-0.579444|VI|FR|https://whosonfirst.mapzen.com/spelunker/id/421187309/
+890432569|Barcelona|41.3825|2.176944444|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890432569/
+890432573|Barcelona|41.3825|2.176944444|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890432573/
+890432575|Barcelona|41.3825|2.176944444|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890432575/
+890432591|Bangui|4.361388888|18.555277777|PH|CF|https://whosonfirst.mapzen.com/spelunker/id/890432591/
+101941239|Derby|52.916667|-1.466667|AU|GB|https://whosonfirst.mapzen.com/spelunker/id/101941239/
+890433179|Murcia|37.986111111|-1.130277777|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890433179/
+890433229|Lugo|43.011666666|-7.557222222|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890433229/
+890434093|Pontevedra|42.433611111|-8.6475|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890434093/
+890434141|Pamplona|42.816666666|-1.65|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890434141/
+890434145|Pamplona|42.816666666|-1.65|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890434145/
+101941667|Badajos|38.88|-6.97|BR|ES|https://whosonfirst.mapzen.com/spelunker/id/101941667/
+890434785|Matanzas|23.049444|-81.573611|DO|CU|https://whosonfirst.mapzen.com/spelunker/id/890434785/
+101755783|Bergen|60.3925|5.323333|BE|NO|https://whosonfirst.mapzen.com/spelunker/id/101755783/
+890436639|San Antonio|29.428611111|-98.493333333|PH|US|https://whosonfirst.mapzen.com/spelunker/id/890436639/
+890438511|San Antonio|29.428611111|-98.493333333|PH|US|https://whosonfirst.mapzen.com/spelunker/id/890438511/
+890438543|Burgos|42.340833333|-3.699722222|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890438543/
+101942725|Murajá|58.465556|23.226389|BR|EE|https://whosonfirst.mapzen.com/spelunker/id/101942725/
+890440075|Cadiz|36.516666666|-6.283333333|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890440075/
+890439909|Barcelona|41.3825|2.176944444|VE|ES|https://whosonfirst.mapzen.com/spelunker/id/890439909/
+890439929|San Salvador|13.69|-89.19|PH|SV|https://whosonfirst.mapzen.com/spelunker/id/890439929/
+890441579|Granada|37.178055555|-3.600833333|CO|ES|https://whosonfirst.mapzen.com/spelunker/id/890441579/
+890442123|Valencia|39.466666666|-0.375|VE|ES|https://whosonfirst.mapzen.com/spelunker/id/890442123/
+890440987|San Antonio|29.428611111|-98.493333333|HN|US|https://whosonfirst.mapzen.com/spelunker/id/890440987/
+890444145|Armenia|40.383333|44.95|PH|AM|https://whosonfirst.mapzen.com/spelunker/id/890444145/
+890445017|Albania|41|20|CO|AL|https://whosonfirst.mapzen.com/spelunker/id/890445017/
+890444409|Mali|17|-4|GN|ML|https://whosonfirst.mapzen.com/spelunker/id/890444409/
+890443613|Valencia|39.466666666|-0.375|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890443613/
+890444811|Colombia|3.816667|-73.916667|CU|CO|https://whosonfirst.mapzen.com/spelunker/id/890444811/
+890443945|San Antonio|29.428611111|-98.493333333|PH|US|https://whosonfirst.mapzen.com/spelunker/id/890443945/
+101945805|Aruaru|59.385833|25.155833|BR|EE|https://whosonfirst.mapzen.com/spelunker/id/101945805/
+890450189|Zaragoza|41.65|-0.883333333|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890450189/
+890450221|Valencia|39.466666666|-0.375|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890450221/
+890450219|Valencia|39.466666666|-0.375|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890450219/
+101772383|Mons|50.454722|3.951944|FR|BE|https://whosonfirst.mapzen.com/spelunker/id/101772383/
+890451091|Los Angeles|34.05|-118.25|PH|US|https://whosonfirst.mapzen.com/spelunker/id/890451091/
+890449741|Barcelona|41.3825|2.176944444|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890449741/
+890450657|Salamanca|40.965|-5.663888888|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890450657/
+890450661|Sagunto|39.676388888|-0.273333333|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890450661/
+101772629|Mons|50.454722|3.951944|FR|BE|https://whosonfirst.mapzen.com/spelunker/id/101772629/
+890451443|Alicante|38.345277777|-0.483055555|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/890451443/
+890451689|Kabuna Village|58.729444444|22.540277777|KI|EE|https://whosonfirst.mapzen.com/spelunker/id/890451689/
+101772919|Serres|41.083333|23.55|FR|GR|https://whosonfirst.mapzen.com/spelunker/id/101772919/
+421189365|Antequera|37.018365|-4.559665|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/421189365/
+421189735|San Antonio|29.428611|-98.493333|HN|US|https://whosonfirst.mapzen.com/spelunker/id/421189735/
+101776441|San Antonio|29.428611|-98.493333|ES|US|https://whosonfirst.mapzen.com/spelunker/id/101776441/
+101777363|Burgos|42.340833|-3.699722|IT|ES|https://whosonfirst.mapzen.com/spelunker/id/101777363/
+101778251|Casa Branca|-21.773889|-47.085833|PT|BR|https://whosonfirst.mapzen.com/spelunker/id/101778251/
+890457365|Waterford|52.2583|-7.119|CA|IE|https://whosonfirst.mapzen.com/spelunker/id/890457365/
+101776885|San Clemente|33.437778|-117.620278|ES|US|https://whosonfirst.mapzen.com/spelunker/id/101776885/
+890457677|Sydney|-33.869444444|151.208333333|CA|AU|https://whosonfirst.mapzen.com/spelunker/id/890457677/
+890456655|Brooklyn|40.692777777|-73.990277777|CA|US|https://whosonfirst.mapzen.com/spelunker/id/890456655/
+890457767|St. Andrews|56.338888888|-2.798888888|CA|GB|https://whosonfirst.mapzen.com/spelunker/id/890457767/
+890457847|Stirling|56.119444444|-3.935833333|CA|GB|https://whosonfirst.mapzen.com/spelunker/id/890457847/
+421190459|San Sebastián|43.32|-1.98|HN|ES|https://whosonfirst.mapzen.com/spelunker/id/421190459/
+890458349|Youngstown|41.096388888|-80.649166666|CA|US|https://whosonfirst.mapzen.com/spelunker/id/890458349/
+890458627|Belfast|54.596666666|-5.938333333|CA|GB|https://whosonfirst.mapzen.com/spelunker/id/890458627/
+101949253|Granada|37.178056|-3.600833|BR|ES|https://whosonfirst.mapzen.com/spelunker/id/101949253/
+101781925|Bergen|60.3925|5.323333|DE|NO|https://whosonfirst.mapzen.com/spelunker/id/101781925/
+101787781|Bergen|60.3925|5.323333|DE|NO|https://whosonfirst.mapzen.com/spelunker/id/101787781/
+101951327|Casa Grande|32.885833|-111.743889|BR|US|https://whosonfirst.mapzen.com/spelunker/id/101951327/
+421192011|Zaragoza|41.65|-0.883333|CR|ES|https://whosonfirst.mapzen.com/spelunker/id/421192011/
+421192077|Boston|42.357778|-71.061667|JM|US|https://whosonfirst.mapzen.com/spelunker/id/421192077/
+85932957|Melbourne|-37.820556|144.961389|US|AU|https://whosonfirst.mapzen.com/spelunker/id/85932957/
+101952671|Funchal|32.65|-16.916667|BR|PT|https://whosonfirst.mapzen.com/spelunker/id/101952671/
+101796357|Lugo|43.011667|-7.557222|IT|ES|https://whosonfirst.mapzen.com/spelunker/id/101796357/
+101797181|Брест|52.133333|23.666667|BG|BY|https://whosonfirst.mapzen.com/spelunker/id/101797181/
+890478299|Orsha|54.509166666|30.425833333|RU|BY|https://whosonfirst.mapzen.com/spelunker/id/890478299/
+890476909|Varna|43.216666666|27.916666666|RS|BG|https://whosonfirst.mapzen.com/spelunker/id/890476909/
+890483275|Voronovo|54.15|25.316666666|RU|BY|https://whosonfirst.mapzen.com/spelunker/id/890483275/
+421194583|Barcelona|41.3825|2.176944|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/421194583/
+890484845|Rechitsa|52.363888888|30.394722222|RU|BY|https://whosonfirst.mapzen.com/spelunker/id/890484845/
+101806473|Berne|46.950833|7.438611|DE|CH|https://whosonfirst.mapzen.com/spelunker/id/101806473/
+101807897|Bergen|60.3925|5.323333|DE|NO|https://whosonfirst.mapzen.com/spelunker/id/101807897/
+101955009|Nantes|47.217222|-1.553889|BR|FR|https://whosonfirst.mapzen.com/spelunker/id/101955009/
+85936177|Athens|38|23.716667|US|GR|https://whosonfirst.mapzen.com/spelunker/id/85936177/
+421196255|Ayacucho|-13.163056|-74.224444|AR|PE|https://whosonfirst.mapzen.com/spelunker/id/421196255/
+890490147|Selising|57.962222222|27.520555555|MY|EE|https://whosonfirst.mapzen.com/spelunker/id/890490147/
+421196961|San Antonio|29.428611|-98.493333|AR|US|https://whosonfirst.mapzen.com/spelunker/id/421196961/
+101818235|Korinth|37.933333|22.933333|DK|GR|https://whosonfirst.mapzen.com/spelunker/id/101818235/
+421197915|Barcelona|41.3825|2.176944|VE|ES|https://whosonfirst.mapzen.com/spelunker/id/421197915/
+421198457|San Sebastián|43.32|-1.98|HN|ES|https://whosonfirst.mapzen.com/spelunker/id/421198457/
+101822407|Berga|42.1|1.845556|DE|ES|https://whosonfirst.mapzen.com/spelunker/id/101822407/
+421198841|San Antonio|29.428611|-98.493333|CO|US|https://whosonfirst.mapzen.com/spelunker/id/421198841/
+890499425|Japan|35|136|ID|JP|https://whosonfirst.mapzen.com/spelunker/id/890499425/
+890499431|Japan|35|136|ID|JP|https://whosonfirst.mapzen.com/spelunker/id/890499431/
+890502135|Jalalabad|34.430277777|70.452777777|IN|AF|https://whosonfirst.mapzen.com/spelunker/id/890502135/
+890500853|Dhāka|23.7|90.366666666|IN|BD|https://whosonfirst.mapzen.com/spelunker/id/890500853/
+101827745|Port-Louis|-20.166667|57.5|FR|MU|https://whosonfirst.mapzen.com/spelunker/id/101827745/
+421199839|Matanzas|23.049444|-81.573611|VE|CU|https://whosonfirst.mapzen.com/spelunker/id/421199839/
+890504449|Jalalabad|34.430277777|70.452777777|IN|AF|https://whosonfirst.mapzen.com/spelunker/id/890504449/
+421200021|Burgos|42.340833|-3.699722|PH|ES|https://whosonfirst.mapzen.com/spelunker/id/421200021/
+101830301|Cologne|50.942222|6.957778|IT|DE|https://whosonfirst.mapzen.com/spelunker/id/101830301/
+101830961|Arenas de Mar|-53.15|-70.916667|ES|CL|https://whosonfirst.mapzen.com/spelunker/id/101830961/
+101832761|Lagos|6.45|3.4|PT|NG|https://whosonfirst.mapzen.com/spelunker/id/101832761/
+101832927|Santo André|-23.657222|-46.533333|PT|BR|https://whosonfirst.mapzen.com/spelunker/id/101832927/
+890508745|Bissau|11.859166666|-15.595555555|IN|GW|https://whosonfirst.mapzen.com/spelunker/id/890508745/
+421201751|Cambridge|52.208056|0.1225|JM|GB|https://whosonfirst.mapzen.com/spelunker/id/421201751/
+421202895|Potosí|-19.583333|-65.75|CO|BO|https://whosonfirst.mapzen.com/spelunker/id/421202895/
+421202923|San Salvador|13.69|-89.19|PY|SV|https://whosonfirst.mapzen.com/spelunker/id/421202923/
+101837591|Essen|51.458069|7.014761|BE|DE|https://whosonfirst.mapzen.com/spelunker/id/101837591/
+101839121|Lille|50.631944|3.0575|BE|FR|https://whosonfirst.mapzen.com/spelunker/id/101839121/
+101839179|Tornio|65.848611|24.147222|FI|SE|https://whosonfirst.mapzen.com/spelunker/id/101839179/
+101963855|Indianápolis|39.767778|-86.158056|BR|US|https://whosonfirst.mapzen.com/spelunker/id/101963855/
+421204991|Segovia|40.95|-4.116667|CO|ES|https://whosonfirst.mapzen.com/spelunker/id/421204991/
+101966387|Sana|15.35|44.2|BR|YE|https://whosonfirst.mapzen.com/spelunker/id/101966387/
+101966389|Sana|15.35|44.2|BR|YE|https://whosonfirst.mapzen.com/spelunker/id/101966389/
+85944421|Geneva|46.2|6.15|US|CH|https://whosonfirst.mapzen.com/spelunker/id/85944421/
+101857827|Kruševo|41.370278|21.246667|HR|MK|https://whosonfirst.mapzen.com/spelunker/id/101857827/
+101861653|Високе|52.366667|23.366667|UA|BY|https://whosonfirst.mapzen.com/spelunker/id/101861653/
+101971513|Arrecife|28.9625|-13.550556|BR|ES|https://whosonfirst.mapzen.com/spelunker/id/101971513/
+101861755|Михайлівці|48.7575|21.918333|UA|SK|https://whosonfirst.mapzen.com/spelunker/id/101861755/
+85946861|Melbourne|-37.820556|144.961389|US|AU|https://whosonfirst.mapzen.com/spelunker/id/85946861/
+101972107|Abreus|22.280556|-80.567778|BR|CU|https://whosonfirst.mapzen.com/spelunker/id/101972107/
+101864573|Берестя|52.133333|23.666667|UA|BY|https://whosonfirst.mapzen.com/spelunker/id/101864573/
+101866145|Високе|52.366667|23.366667|UA|BY|https://whosonfirst.mapzen.com/spelunker/id/101866145/
+101864755|Sofia|42.7|23.333333|MD|BG|https://whosonfirst.mapzen.com/spelunker/id/101864755/
+101975707|Burgos|42.340833|-3.699722|BR|ES|https://whosonfirst.mapzen.com/spelunker/id/101975707/
+101869519|Високе|52.366667|23.366667|UA|BY|https://whosonfirst.mapzen.com/spelunker/id/101869519/
+101867897|Славгород|53.445278|30.996389|UA|BY|https://whosonfirst.mapzen.com/spelunker/id/101867897/
+101871493|Високе|52.366667|23.366667|UA|BY|https://whosonfirst.mapzen.com/spelunker/id/101871493/
+101882827|Serres|41.083333|23.55|FR|GR|https://whosonfirst.mapzen.com/spelunker/id/101882827/
+101897255|Cologne|50.942222|6.957778|FR|DE|https://whosonfirst.mapzen.com/spelunker/id/101897255/
+101896523|Mons|50.454722|3.951944|FR|BE|https://whosonfirst.mapzen.com/spelunker/id/101896523/
+85951211|Hanover|52.374444|9.738611|US|DE|https://whosonfirst.mapzen.com/spelunker/id/85951211/
+101985331|Valparaíso|-33.066667|-71.633333|BR|CL|https://whosonfirst.mapzen.com/spelunker/id/101985331/
+101903745|Sancti-Spíritus|21.933889|-79.443889|ES|CU|https://whosonfirst.mapzen.com/spelunker/id/101903745/
+101907777|Berne|46.950833|7.438611|DE|CH|https://whosonfirst.mapzen.com/spelunker/id/101907777/
+101824517|Bergen|60.3925|5.323333|DE|NO|https://whosonfirst.mapzen.com/spelunker/id/101824517/
+85968811|Delhi|28.666667|77.216667|US|IN|https://whosonfirst.mapzen.com/spelunker/id/85968811/
+85921153|Melbourne|-37.820556|144.961389|US|AU|https://whosonfirst.mapzen.com/spelunker/id/85921153/
+85970237|Bridgetown|13.096111|-59.608333|US|BB|https://whosonfirst.mapzen.com/spelunker/id/85970237/
+101988573|Corrientes|-27.483333|-58.816667|BR|AR|https://whosonfirst.mapzen.com/spelunker/id/101988573/
+85969039|Geneva|46.2|6.15|US|CH|https://whosonfirst.mapzen.com/spelunker/id/85969039/
+101993441|Las Palmas|28.127222|-15.431389|MX|ES|https://whosonfirst.mapzen.com/spelunker/id/101993441/
+101991547|San Sebastián|43.32|-1.98|MX|ES|https://whosonfirst.mapzen.com/spelunker/id/101991547/
+101992515|San Sebastián|43.32|-1.98|MX|ES|https://whosonfirst.mapzen.com/spelunker/id/101992515/
+85974663|Venice|45.439722|12.331944|US|IT|https://whosonfirst.mapzen.com/spelunker/id/85974663/
+101996553|San Antonio|29.428611|-98.493333|MX|US|https://whosonfirst.mapzen.com/spelunker/id/101996553/
+101996849|San Antonio|29.428611|-98.493333|MX|US|https://whosonfirst.mapzen.com/spelunker/id/101996849/
+85975115|Derry|54.991667|-7.341667|US|GB|https://whosonfirst.mapzen.com/spelunker/id/85975115/
+101997287|San Antonio|29.428611|-98.493333|MX|US|https://whosonfirst.mapzen.com/spelunker/id/101997287/
+101996573|Cedral|-20.902778|-49.267778|MX|BR|https://whosonfirst.mapzen.com/spelunker/id/101996573/
+101998889|Zaragoza|41.65|-0.883333|MX|ES|https://whosonfirst.mapzen.com/spelunker/id/101998889/
+101999013|Zaragoza|41.65|-0.883333|MX|ES|https://whosonfirst.mapzen.com/spelunker/id/101999013/
+101999909|San Sebastián|43.32|-1.98|MX|ES|https://whosonfirst.mapzen.com/spelunker/id/101999909/
