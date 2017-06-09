@@ -44,6 +44,8 @@
 	"wof:lastmodified": "int",
 	"wof:name": "str",
 	"wof:parent_id": "int",
+	"wof:population": "int",
+	"wof:population_rank": "int",
 	"wof:placetype": "str",
 	"wof:placetype_alt": "list",
 	"wof:superseded_by": "list",
