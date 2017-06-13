@@ -27,7 +27,10 @@ _2017-05-12: This document should be considered a work-in-progress_
 - **test_superseded_by.js**: A test to validate records' `wof:superseded_by` and `wof:superseded` properties, by doing the following:
   - Checks that a record's (record A) `wof:superseded_by` value matches the `wof:id` of an existing record (record B).
   - If so, checks that record B's `wof:supersedes` property value matches record A's `wof:id` value.
-    
+  
+- **wk_mismatch**: _(in folder)_ A test to validate records' `wk:*` properties, by doing the following:
+  - Checks that a record's `wk:latitude` and `wk:longitude` values fall within it's parent's geometry. 
+  
 ## See also
 
 _https://github.com/whosonfirst_
