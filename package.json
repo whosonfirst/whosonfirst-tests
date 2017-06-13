@@ -7,7 +7,8 @@
     "test": "tests"
   },
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "wk_mismatch": "node test_runs/wk_mismatch"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,14 @@
   "homepage": "https://github.com/stepps00/whosonfirst-acceptance#readme",
   "dependencies": {
     "colors": "^1.1.2",
-    "csv-parse": "^1.2.0"
-  }
+    "csv-parse": "^1.2.0",
+    "through2-sink": "*",
+    "through2-filter": "*",
+    "through2-map": "*",
+    "pelias-whosonfirst": "*",
+    "pelias-config": "*",
+    "lodash": "*",
+    "polygon-lookup": "*",
+    "simplify-js": "*"
+  } 
 }
