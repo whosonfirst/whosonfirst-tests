@@ -1,16 +1,15 @@
 const sink = require('through2-sink');
 const filter = require('through2-filter');
 const whosonfirst = require('pelias-whosonfirst');
-const config = require('pelias-config').generate();
+// const config = require('pelias-config').generate();
 const _ = require('lodash');
 const simplifyGeometry = require('./simplifyGeometry');
 const PolygonLookup = require('polygon-lookup');
 
-const datapath = config.imports.whosonfirst.datapath;
+const datapath = "/usr/local/mapzen/whosonfirst-data";
 
-const placetypes = ['neighbourhood', 'macrohood', 'locality', 'localadmin',
-  'borough', 'county', 'macrocounty', 'region', 'macroregion', 'dependency',
-  'country', 'continent'];
+const placetypes = ['region', 'localadmin', 'macroregion', 'dependency',
+  'country'];
 
 const features = [];
 
