@@ -39,8 +39,7 @@ function test_superseded_by(records){
 
 var test_superseded_records = require('../test_files/test_superseded_records.js')
 
-//module.exports.run = function()
-
+module.exports.run = function()
 {
 	test_superseded_by(test_superseded_records)
 }

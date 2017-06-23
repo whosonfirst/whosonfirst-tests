@@ -83,3 +83,11 @@ whosonfirst.metadataStream(datapath).create('country')
   .on('finish', function() {
     doPlacetypes(new PolygonLookup( { features: features } ));
   });
+
+//var mismatch_test = 
+//
+//module.exports.run = function()
+//{
+//	mismatch_test(getWikiLatLon)
+//	mismatch_test(doPlacetypes)
+//}
